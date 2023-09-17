@@ -8,5 +8,5 @@
 
 ## Reference
 
-Basic Level - Youtube(@Sonol Coding) : https://www.youtube.com/playlist?list=PLz2iXe7EqJOOTNTK27a4-WsgZU5NVfguh
+Basic Level - Youtube(@Sonol Coding) : https://www.youtube.com/playlist?list=PLz2iXe7EqJOOTNTK27a4-WsgZU5NVfguh <br>
 Code Up 기초 100제 
